@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scientific Plot Digitizer"
+  short_description: "Extract numeric data from scientific plot images"
+  default_prompt: "Use $scientific-plot-digitizer to extract data from this scientific plot image and export CSV with calibration details."

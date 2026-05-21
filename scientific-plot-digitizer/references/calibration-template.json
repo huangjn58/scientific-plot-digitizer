@@ -1,0 +1,9 @@
+{
+  "x_scale": "linear",
+  "y_scale": "linear",
+  "x1": {"pixel": [100, 500], "value": 0},
+  "x2": {"pixel": [800, 500], "value": 100},
+  "y1": {"pixel": [100, 500], "value": 0},
+  "y2": {"pixel": [100, 100], "value": 1},
+  "roi": [100, 100, 800, 500]
+}
